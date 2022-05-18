@@ -13,4 +13,4 @@ https://replit.com/@bradygustafson4/PyOS-1#main.py
 # Password Cracker (Example)
 https://paste.pythondiscord.com/tiheqosuyu
 
-I have also found a big exploit with the ports on windows 11 and 10 so I'm making a fix for it. Its a work spread through outlook that fixes the exploit then reboots the pc. Not giving any more info.
+I have also found a big exploit with the ports on windows 11 and 10 so I'm making a fix for it. I made a worm that will spread through outlook that fixes the exploit then reboots the pc. It is being deployed now. Over 10,000 pc have been fixed.
