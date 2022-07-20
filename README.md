@@ -15,3 +15,18 @@ https://paste.pythondiscord.com/tiheqosuyu
 
 # PyOS V3 & Revamp
 https://github.com/ThatError404/PyOS-Revamp
+
+# ErrorsMenu
+https://github.com/ThatError404/ErrorsMenu
+
+# AnyScript
+https://github.com/ThatError404/AnyScript
+
+# MacOS-Version
+https://github.com/ThatError404/MacOS-Version
+
+# EconoBot (Discontinued)
+https://github.com/ThatError404/EconoBot
+
+# BetterPlugins (Idle)
+https://github.com/ThatError404/BetterPlugins
