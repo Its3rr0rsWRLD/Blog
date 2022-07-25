@@ -30,3 +30,6 @@ https://github.com/ThatError404/EconoBot
 
 # BetterPlugins (Idle)
 https://github.com/ThatError404/BetterPlugins
+
+# WinCommand (MacOS)
+https://github.com/ThatError404/WinCommand
