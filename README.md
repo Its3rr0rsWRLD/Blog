@@ -1,11 +1,5 @@
 <h1 align=center>Projects</h1>
 
-## Doggy API
-https://replit.com/@bradygustafson4/DoggyAPI#main.py
-
-## GUI Converter (To python)
-https://replit.com/@bradygustafson4/GuiMakerPy#main.py
-
 ## PyOS (Unix/Linux-like terminal "Operating System" made in Python)
 https://github.com/ThatError404/PyOS
 
