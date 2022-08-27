@@ -15,13 +15,13 @@ https://github.com/ThatError404/ErrorsMenu
 ## AnyScript
 https://github.com/ThatError404/AnyScript
 
-## MacOS-Version
+## MacOS-Version (Never did anything anyway lol)
 https://github.com/ThatError404/MacOS-Version
 
 ## EconoBot (Discontinued)
 https://github.com/ThatError404/EconoBot
 
-## BetterPlugins (Idle)
+## BetterPlugins (Discontinued)
 https://github.com/ThatError404/BetterPlugins
 
 ## WinCommand (MacOS)
